@@ -1,0 +1,11 @@
+# VSCode specific files
+.vscode
+
+# MacOS specific files
+.DS_Store
+
+# executables and object files
+part2/prog2
+part3/prog3
+part4/prog4
+part4/check.o
